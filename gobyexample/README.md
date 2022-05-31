@@ -1,2 +1,85 @@
 # Go by Example
 
+Go by Example是对Go基于实践的介绍，包含一系列带有注释说明的示例程序。
+
+## 练习清单
+- [x] [Hello World](./hello_world.go)
+- [x] [Values](./values.go)
+- [x] [Variables](./variables.go)
+- [x] [Constants](./constant.go)
+- [x] [For](./for.go)
+- [x] [If/Else](./if_else.go)
+- [x] [Switch](./switch.go)
+- [x] [Arrays](./arrays.go)
+- [x] [Slices](./slices.go)
+- [x] [Maps](./maps.go)
+- [x] [Range](./range.go)
+- [x] [Functions](./functions.go)
+- [x] [Multiple Return Values](./multiple_return_values.go)
+- [x] [Variadic Functions](./variadic_functions.go)
+- [x] [Closures](./closures.go)
+- [x] [Recursion](./recursion.go)
+- [x] [Pointers](./pointers.go)
+- [x] [Strings and Runes](./strings_and_runes.go)
+- [x] [Structs](./structs.go)
+- [x] [Methods](./methods.go)
+- [x] [Interfaces](./interfaces.go)
+- [x] [Struct Embedding](./embedding.go)
+- [x] [Generics](./generics.go)
+- [x] [Errors](./errors.go)
+- [x] [Goroutines](./goroutines.go)
+- [x] [Channels](./channels.go)
+- [x] [Channel Buffering](./channel_buffering.go)
+- [x] [Channel Synchronization](./channel_sync.go)
+- [x] [Channel Directions](./channel_directions.go)
+- [x] [Select](./select.go)
+- [x] [Timeouts](./timeouts.go)
+- [x] [Non-Blocking Channel Operations](./non_blocking_channel_operations.go)
+- [ ] Closing Channels
+- [ ] Range over Channels
+- [ ] Timers
+- [ ] Tickers
+- [ ] Worker Pools
+- [ ] WaitGroups
+- [ ] Rate Limiting
+- [ ] Atomic Counters
+- [ ] Mutexes
+- [ ] Stateful Goroutines
+- [ ] Sorting
+- [ ] Sorting by Functions
+- [ ] Panic
+- [ ] Defer
+- [ ] Recover
+- [ ] String Functions
+- [ ] String Formatting
+- [ ] Text Templates
+- [ ] Regular Expressions
+- [ ] JSON
+- [ ] XML
+- [ ] Time
+- [ ] Epoch
+- [ ] Time Formatting / Parsing
+- [ ] Random Numbers
+- [ ] Number Parsing
+- [ ] URL Parsing
+- [ ] SHA256 Hashes
+- [ ] Base64 Encoding
+- [ ] Reading Files
+- [ ] Writing Files
+- [ ] Line Filters
+- [ ] File Paths
+- [ ] Directories
+- [ ] Temporary Files and Directories
+- [ ] Embed Directive
+- [ ] Testing and Benchmarking
+- [ ] Command-Line Arguments
+- [ ] Command-Line Flags
+- [ ] Command-Line Subcommands
+- [ ] Environment Variables
+- [ ] HTTP Clients
+- [ ] HTTP Servers
+- [ ] Context
+- [ ] Spawning Processes
+- [ ] Exec'ing Processes
+- [ ] Signals
+- [ ] Exit
