@@ -35,12 +35,12 @@ Go by Example是对Go基于实践的介绍，包含一系列带有注释说明�
 - [x] [Select](./select.go)
 - [x] [Timeouts](./timeouts.go)
 - [x] [Non-Blocking Channel Operations](./non_blocking_channel_operations.go)
-- [ ] Closing Channels
-- [ ] Range over Channels
-- [ ] Timers
-- [ ] Tickers
-- [ ] Worker Pools
-- [ ] WaitGroups
+- [x] [Closing Channels](./closing_channels.go)
+- [x] [Range over Channels](./range_over_channels.go)
+- [x] [Timers](./timers.go)
+- [x] [Tickers](./tickers.go)
+- [x] [Worker Pools](./worker_pools.go)
+- [x] [WaitGroups](./waitgroup.go)
 - [ ] Rate Limiting
 - [ ] Atomic Counters
 - [ ] Mutexes
