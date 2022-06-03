@@ -41,16 +41,16 @@ Go by Example是对Go基于实践的介绍，包含一系列带有注释说明�
 - [x] [Tickers](./tickers.go)
 - [x] [Worker Pools](./worker_pools.go)
 - [x] [WaitGroups](./waitgroup.go)
-- [ ] Rate Limiting
-- [ ] Atomic Counters
-- [ ] Mutexes
-- [ ] Stateful Goroutines
-- [ ] Sorting
-- [ ] Sorting by Functions
-- [ ] Panic
-- [ ] Defer
-- [ ] Recover
-- [ ] String Functions
+- [x] [Rate Limiting](./rate_limiting.go)
+- [x] [Atomic Counters](./atomic_counters.go)
+- [x] [Mutexes](./mutexes.go)
+- [x] [Stateful Goroutines](./stateful_goroutines.go)
+- [x] [Sorting](./sorting.go)
+- [x] [Sorting by Functions](./sorting_by_functions.go)
+- [x] [Panic](./panic.go)
+- [x] [Defer](./defer.go)
+- [x] [Recover](./recover.go)
+- [x] [String Functions](./string_functions.go)
 - [ ] String Formatting
 - [ ] Text Templates
 - [ ] Regular Expressions
