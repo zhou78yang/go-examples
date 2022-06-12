@@ -72,14 +72,14 @@ Go by Example是对Go基于实践的介绍，包含一系列带有注释说明�
 - [ ] Temporary Files and Directories
 - [ ] Embed Directive
 - [ ] Testing and Benchmarking
-- [ ] Command-Line Arguments
-- [ ] Command-Line Flags
-- [ ] Command-Line Subcommands
-- [ ] Environment Variables
-- [ ] HTTP Clients
-- [ ] HTTP Servers
-- [ ] Context
+- [x] [Command-Line Arguments](./cli_arguments.go)
+- [x] [Command-Line Flags](./cli_flags.go)
+- [x] [Command-Line Subcommands](./cli_subcommands.go)
+- [x] [Environment Variables](./environments.go)
+- [x] [HTTP Clients](./http_client.go)
+- [x] [HTTP Servers](./http_server.go)
+- [x] [Context](./context.go)
 - [ ] Spawning Processes
 - [ ] Exec'ing Processes
-- [ ] Signals
-- [ ] Exit
+- [x] [Signals](./signals.go)
+- [x] [Exit](./exit.go)
