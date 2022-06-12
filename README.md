@@ -2,7 +2,7 @@
 Go语言代码练习
 
 
-## [Go 语言特性](./lang)
+## [Go 语言特性](./lang/README.md)
 Go语法练习
 
 
