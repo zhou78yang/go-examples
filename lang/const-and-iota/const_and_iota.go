@@ -24,6 +24,17 @@ func main() {
 	fmt.Println(c1, c2, c3, c4) // 100 100 aaa aaa
 	fmt.Println(c5, c6, c7)     // 4 5 6
 
+	const (
+		cBool    = true
+		cRune    = ' '
+		cInt     = 15
+		cFloat   = 3.5
+		cComplex = 1 + 5i
+		cString  = "hello"
+	)
+	vBool, vRune, vInt, vFloat, vComplex, vString := cBool, cRune, cInt, cFloat, cComplex, cString
+	fmt.Printf("%T %T %T %T %T %T\n", vBool, vRune, vInt, vFloat, vComplex, vString) // bool int32 int float64 complex128 string
+
 	// iota是Go语言中的常量计数器，每一个const关键字出现iota都会被重置为0
 	const (
 		Sun = iota
@@ -53,4 +64,13 @@ func main() {
 		b5
 	)
 	fmt.Println(b1, b2, b3, b4, b5) // 1 2 4 8 16
+
+	const (
+		t1 = iota
+		t2
+		t3 = 15
+		t4 = iota // 此时iota=3
+		t5
+	)
+	fmt.Println(t1, t2, t3, t4, t5) // 0 1 15 3 4
 }
